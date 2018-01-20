@@ -9,3 +9,4 @@ hick
 
 hick, hick, hee, hick, sigh
 
+hick, [burp], [glug], [clap]
