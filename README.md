@@ -1,12 +1,6 @@
 # Tonks
 Tonks can change what she looks like at will
 
-um um, what's it look like???? hee, hee, hee, hick, hick
-
-hee, hee, hee, hick hick, snort
-
-hick
-
-hick, hick, hee, hick, sigh
-
-hick, [burp], [glug], [clap]
+```
+Tonks is Nimphodora's surname but prefers to be called Tonks because she doesn't like the name!!!
+```
